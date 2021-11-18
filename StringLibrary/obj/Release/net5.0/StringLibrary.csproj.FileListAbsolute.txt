@@ -1,0 +1,12 @@
+C:\Users\aaron\VSCode Git Repos\ClassLibraryProjects\StringLibrary\bin\Release\net5.0\StringLibrary.deps.json
+C:\Users\aaron\VSCode Git Repos\ClassLibraryProjects\StringLibrary\bin\Release\net5.0\StringLibrary.dll
+C:\Users\aaron\VSCode Git Repos\ClassLibraryProjects\StringLibrary\bin\Release\net5.0\ref\StringLibrary.dll
+C:\Users\aaron\VSCode Git Repos\ClassLibraryProjects\StringLibrary\bin\Release\net5.0\StringLibrary.pdb
+C:\Users\aaron\VSCode Git Repos\ClassLibraryProjects\StringLibrary\obj\Release\net5.0\StringLibrary.csproj.AssemblyReference.cache
+C:\Users\aaron\VSCode Git Repos\ClassLibraryProjects\StringLibrary\obj\Release\net5.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\VSCode Git Repos\ClassLibraryProjects\StringLibrary\obj\Release\net5.0\StringLibrary.AssemblyInfoInputs.cache
+C:\Users\aaron\VSCode Git Repos\ClassLibraryProjects\StringLibrary\obj\Release\net5.0\StringLibrary.AssemblyInfo.cs
+C:\Users\aaron\VSCode Git Repos\ClassLibraryProjects\StringLibrary\obj\Release\net5.0\StringLibrary.csproj.CoreCompileInputs.cache
+C:\Users\aaron\VSCode Git Repos\ClassLibraryProjects\StringLibrary\obj\Release\net5.0\StringLibrary.dll
+C:\Users\aaron\VSCode Git Repos\ClassLibraryProjects\StringLibrary\obj\Release\net5.0\ref\StringLibrary.dll
+C:\Users\aaron\VSCode Git Repos\ClassLibraryProjects\StringLibrary\obj\Release\net5.0\StringLibrary.pdb
